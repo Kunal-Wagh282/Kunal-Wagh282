@@ -71,7 +71,3 @@ I love building from **0 → 1**, optimizing user experience through **prompt en
 [![GitHub](https://img.shields.io/badge/GitHub-kunalwagh-black?logo=github)](https://github.com/kunalwagh)
 
 ---
-
-### ⚡ GitHub Stats
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalwagh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalwagh&layout=compact&theme=tokyonight)
