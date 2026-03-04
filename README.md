@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Kunal Wagh  
 
-🚀 **ML Software Engineer – Trainee @ Yardi Systems** (ChatIQ Team)  
+🚀 **ML Software Engineer @ Yardi Systems** (ChatIQ Team)  
 💡 Passionate about building intelligent systems with **GenAI, RAGs, and real-time automation**  
 📍 Pune, India  
 
@@ -22,7 +22,7 @@ I love building from **0 → 1**, optimizing user experience through **prompt en
 ---
 
 ### 🧠 Experience
-**💼 ML Software Engineer – Trainee | Yardi Software Pvt. Ltd.** *(July 2025 – Present)*  
+**💼 ML Software Engineer | Yardi Software Pvt. Ltd.** *(July 2025 – Present)*  
 - Working on **ChatIQ (AIBot)** – property chatbot platform using FastAPI, LangGraph, GPT & Phoenix Tracing.  
 - Focusing on **prompt orchestration**, **LLM tool chaining**, and **agent optimization pipelines**.  
 
